@@ -17,6 +17,12 @@ a {
   text-decoration: none;
   color: #999;
 }
+
+h2{
+  padding-bottom: 2px;
+  border-bottom: solid 2px;
+}
+
 a:hover {
   color: #6633ff;
 }
