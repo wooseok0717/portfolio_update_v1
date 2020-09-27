@@ -35,9 +35,13 @@ a:hover {
 
 /* Section Styles */
 
+li {
+  color: #000;
+}
+
 .main-nav {
   width: 100%;
-  background: pink;
+  background: lightblue;
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -97,7 +101,7 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 .location {
-  background-color: #000;
+  background-color: rgb(0, 0, 0);
   color: white;
 }
 .card {
@@ -106,7 +110,7 @@ header .profile-image:hover {
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: pink;
+  background: lightblue;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
